@@ -104,6 +104,8 @@ typedef uint32_t time_t;
 
 #define jdelay delay
 
+#define assert(...)
+
 #endif // PLATFORM_STM32
 
 
